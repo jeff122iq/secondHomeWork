@@ -1,0 +1,61 @@
+h1 {
+    font-size: 20px;
+    line-height: 20px;
+    color: #000000;
+    text-align: center;
+}
+
+p {
+    text-indent: 20px;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+p .redColor{
+    word-spacing: 20px;
+    color: green;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    font-size: 28px;
+    line-height: 36px;
+    color: green;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+}
+
+ul li a {
+    color: red;
+    text-decoration: none;
+}
+
+ul li a.google {
+    text-transform: uppercase;
+}
+
+ul li a.facebook {
+    letter-spacing: 20px;
+}
+
+ul li p {
+    color: red;
+    text-decoration: none;
+}
+
+ul li p ins {
+    color: yellow;
+    font-size: 30px;
+    line-height: 30px;
+    font-weight: bold;
+}
+
+ul li a#yandex.yandex {
+    color: purple;
+    font-size: 12px;
+    line-height: 18px;
+}
+
